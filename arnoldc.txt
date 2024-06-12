@@ -1,0 +1,287 @@
+						                                                          
+			       db                                           88          88   ,ad8888ba,   
+			      d88b                                          88          88  d8"'    `"8b  
+			     d8'`8b                                         88          88 d8'            
+			    d8'  `8b     8b,dPPYba, 8b,dPPYba,   ,adPPYba,  88  ,adPPYb,88 88             
+			   d8YaaaaY8b    88P'   "Y8 88P'   `"8a a8"     "8a 88 a8"    `Y88 88             
+			  d8""""""""8b   88         88       88 8b       d8 88 8b       88 Y8,            
+			 d8'        `8b  88         88       88 "8a,   ,a8" 88 "8a,   ,d88  Y8a.    .a8P  
+			d8'          `8b 88         88       88  `"YbbdP"'  88  `"8bbdP"Y8   `"Y8888Y"'
+
+
+#######################################################################################################################################
+                                                            
+Although the one-liners of Arnold Schwarzenegger are fairly well known the true semantics of the uttering is 
+yet to be understood. This project tries to discover new meanings from the Arnold movies with the means of 
+computer science.
+Lauri Hartikka 
+
+#######################################################################################################################################
+
+Valutazione: se il progetto passa il TEST I 1/1, altrimenti 0/1.
+
+Consegna: .zip del progetto IntelliJ (includere -->>TUTTI<<-- i file, .jar compreso).
+JDK ammessi: 17,18,19,20,21,22 (-->>no Azul Zulu<<--).
+ANTLR 4 Runtime: 4.13.1
+
+Qualunque consegna che non rispetti i vincoli sopraccitati verrà valutata 0/1.
+Per eventuali problemi potete contattarmi tramite email: marco.vedovato@studenti.univr.it
+
+################################################################SINTASSI###############################################################
+
+WIKI ---> https://github.com/lhartikk/ArnoldC/wiki/ArnoldC  https://esolangs.org/wiki/ArnoldC <---
+
+
+False => I LIED
+
+True => NO PROBLEMO
+
+If => BECAUSE I'M GOING TO SAY PLEASE
+
+Else => BULLSHIT
+
+EndIf => YOU HAVE NO RESPECT FOR LOGIC
+
+While => STICK AROUND
+
+EndWhile => CHILL
+
+PlusOperator => GET UP
+
+MinusOperator => GET DOWN
+
+MultiplicationOperator => YOU'RE FIRED
+
+DivisionOperator => HE HAD TO SPLIT
+
+ModuloOperator => I LET HIM GO
+
+EqualTo => YOU ARE NOT YOU YOU ARE ME
+
+GreaterThan => LET OFF SOME STEAM BENNET
+
+Or => CONSIDER THAT A DIVORCE
+
+And => KNOCK KNOCK
+
+DeclareMethod => LISTEN TO ME VERY CAREFULLY
+
+NonVoidMethod => GIVE THESE PEOPLE AIR
+
+MethodArguments => I NEED YOUR CLOTHES YOUR BOOTS AND YOUR MOTORCYCLE
+
+Return => I'LL BE BACK
+
+EndMethodDeclaration => HASTA LA VISTA, BABY
+
+CallMethod => DO IT NOW
+
+AssignVariableFromMethodCall => GET YOUR ASS TO MARS
+
+DeclareInt => HEY CHRISTMAS TREE
+
+SetInitialValue => YOU SET US UP
+
+BeginMain => IT'S SHOWTIME
+
+EndMain => YOU HAVE BEEN TERMINATED
+
+Print => TALK TO THE HAND
+
+ReadInteger => I WANT TO ASK YOU A BUNCH OF QUESTIONS AND I WANT TO HAVE THEM ANSWERED IMMEDIATELY (>>OPZIONALE<<)
+
+AssignVariable => GET TO THE CHOPPER
+
+SetValue => HERE IS MY INVITATION
+
+EndAssignVariable => ENOUGH TALK
+
+ParseError => WHAT THE FUCK DID I DO WRONG (>>OPZIONALE<<)
+
+#################################################################TEST I################################################################
+
+LISTEN TO ME VERY CAREFULLY slyorarnold
+TALK TO THE HAND ".d88888b  dP        dP    dP                          .d888888   888888ba  888888ba   .88888.  dP        888888ba  "
+TALK TO THE HAND "88.     ͆ʹ 88        Y8.  .8P                         d8ʹ    88   88    `8b 88    `8b d8ʹ   `8b 88        88    `8b "
+TALK TO THE HAND "`Y88888b. 88         Y8aa8P     .d8888b. 88d888b.    88aaaaa88a a88aaaa8Pʹ 88     88 88     88 88        88     88 "
+TALK TO THE HAND "      `8b 88           88       88ʹ  `88 88ʹ  `88    88     88   88   `8b. 88     88 88     88 88        88     88"
+TALK TO THE HAND "d8ʹ   .8P 88           88       88.  .88 88          88     88   88     88 88     88 Y8.   .8P 88        88    .8P "
+TALK TO THE HAND " Y88888P  88888888P    dP       `88888Pʹ dP          88     88   dP     dP dP     dP  `8888Pʹ  88888888P 8888888P  "
+HASTA LA VISTA, BABY
+
+
+LISTEN TO ME VERY CAREFULLY dredd
+TALK TO THE HAND "                      ______"
+TALK TO THE HAND "                    ͓-~   _  ^^~-. ͓"
+TALK TO THE HAND "                  ͓^        - ͓____ ^ ͓          ͓/λ/λ/λ ͓"
+TALK TO THE HAND "                /           (____)  |      S~        ~7"
+TALK TO THE HAND "               ;  .---._    | | || _|     S  I AM THE  Z"
+TALK TO THE HAND "               | |      ~-. ͓λ | |!/ |     /_   LAW!   _λ"
+TALK TO THE HAND "               ( |    ~<-. ͓_^λ|_7^  ͓|     _//_      _λ"
+TALK TO THE HAND "               | |       , 77>   (T/|   _/'   λ/λ/λ/"
+TALK TO THE HAND "               |  λ_      )/< ͓/^λ)i(|"
+TALK TO THE HAND "               (    ^~- ͓  |________||"
+TALK TO THE HAND "               ^! ͓_    / / ͓  ͓'^~^' ͓!!_ ͓..---."
+TALK TO THE HAND "                λ_  ͆-./ /   (-~^~-))' = ͓__ ͓..>- ͓"
+TALK TO THE HAND "                  ^- ͓__/#w ͓_  '^' /~- ͓_/^λ      )"
+TALK TO THE HAND "               /λ  ( <_    ^~~--T^ ~= ͓ λ  λ_ ͓-=~^λ"
+TALK TO THE HAND "  .-== ͓    _ ͓=^_ ͓.- ͆_  ^~*.(_  /_)    λ λ ͓=λ      )"
+TALK TO THE HAND " /-~;  λ ͓-~ .-~  _ ͓/ λ    ___[8]_      λ T_) ͓--~^^)"
+TALK TO THE HAND "   _/   λ ͓ ͓..==~^_ ͓.= ͓λ   _.-~O   ~     λ_λ_λ_ ͓.-=}"
+TALK TO THE HAND "  ͓{       _ ͓.-<~^λ  λ λλ      ()  .=~^^~=. λ_λ_ ͓./"
+TALK TO THE HAND " ͓{ ^T^ _ /  λ  λ  λ  λ λ)    [|   λoDREDD >"
+TALK TO THE HAND "  ^T~ ^ { λ  λ _λ.-|=-T~λλ    () ()λ<||> ͓' )"
+TALK TO THE HAND "   +     λ |=~T  !       Y    [|()  λ  ͓'  /"
+TALK TO THE HAND ""
+HASTA LA VISTA, BABY
+
+
+LISTEN TO ME VERY CAREFULLY space
+HEY CHRISTMAS TREE A2
+YOU SET US UP @NO PROBLEMO
+HEY CHRISTMAS TREE n
+YOU SET US UP 0
+STICK AROUND A2
+GET TO THE CHOPPER n
+HERE IS MY INVITATION n
+GET UP 1
+ENOUGH TALK
+TALK TO THE HAND ""
+GET TO THE CHOPPER A2
+HERE IS MY INVITATION 4
+LET OFF SOME STEAM BENNET n
+ENOUGH TALK
+CHILL
+HASTA LA VISTA, BABY
+
+
+LISTEN TO ME VERY CAREFULLY modulo
+I NEED YOUR CLOTHES YOUR BOOTS AND YOUR MOTORCYCLE dividend
+I NEED YOUR CLOTHES YOUR BOOTS AND YOUR MOTORCYCLE divisor
+GIVE THESE PEOPLE AIR
+HEY CHRISTMAS TREE quotient
+YOU SET US UP 0
+HEY CHRISTMAS TREE remainder
+YOU SET US UP 0
+HEY CHRISTMAS TREE product
+YOU SET US UP 0
+GET TO THE CHOPPER quotient
+HERE IS MY INVITATION dividend
+HE HAD TO SPLIT divisor
+ENOUGH TALK
+GET TO THE CHOPPER product
+HERE IS MY INVITATION divisor
+YOU'RE FIRED quotient
+ENOUGH TALK
+GET TO THE CHOPPER remainder
+HERE IS MY INVITATION dividend
+GET DOWN product
+ENOUGH TALK
+I'LL BE BACK remainder
+HASTA LA VISTA, BABY
+
+
+LISTEN TO ME VERY CAREFULLY divisible
+  I NEED YOUR CLOTHES YOUR BOOTS AND YOUR MOTORCYCLE dividend
+  I NEED YOUR CLOTHES YOUR BOOTS AND YOUR MOTORCYCLE divisor
+  GIVE THESE PEOPLE AIR
+
+  HEY CHRISTMAS TREE result
+  YOU SET US UP 0
+  GET YOUR ASS TO MARS result
+  DO IT NOW modulo dividend divisor
+
+  HEY CHRISTMAS TREE isZero
+  YOU SET US UP 0
+  GET TO THE CHOPPER isZero
+  HERE IS MY INVITATION result
+  YOU ARE NOT YOU YOU ARE ME 0
+  ENOUGH TALK
+
+  I'LL BE BACK isZero
+HASTA LA VISTA, BABY
+
+
+LISTEN TO ME VERY CAREFULLY fizzbuzz
+HEY CHRISTMAS TREE isLessThan100
+YOU SET US UP @NO PROBLEMO
+HEY CHRISTMAS TREE n
+YOU SET US UP 0
+HEY CHRISTMAS TREE multiple
+YOU SET US UP @NO PROBLEMO
+
+STICK AROUND isLessThan100
+  GET TO THE CHOPPER n
+  HERE IS MY INVITATION n
+  GET UP 1
+  ENOUGH TALK
+
+  GET TO THE CHOPPER isLessThan100
+  HERE IS MY INVITATION 100
+  LET OFF SOME STEAM BENNET n
+  ENOUGH TALK
+
+  GET YOUR ASS TO MARS multiple
+  DO IT NOW divisible n 15
+  BECAUSE I'M GOING TO SAY PLEASE multiple
+    TALK TO THE HAND "FizzBuzz"
+  BULLSHIT
+    GET YOUR ASS TO MARS multiple
+    DO IT NOW divisible n 3
+    BECAUSE I'M GOING TO SAY PLEASE multiple
+      TALK TO THE HAND "Fizz"
+    BULLSHIT
+      GET YOUR ASS TO MARS multiple
+      DO IT NOW divisible n 5
+      BECAUSE I'M GOING TO SAY PLEASE multiple
+        TALK TO THE HAND "Buzz"
+      BULLSHIT
+        TALK TO THE HAND n
+      YOU HAVE NO RESPECT FOR LOGIC
+    YOU HAVE NO RESPECT FOR LOGIC
+  YOU HAVE NO RESPECT FOR LOGIC
+CHILL
+HASTA LA VISTA, BABY
+
+
+IT'S SHOWTIME
+
+DO IT NOW space
+DO IT NOW slyorarnold
+DO IT NOW space
+DO IT NOW fizzbuzz
+DO IT NOW space
+DO IT NOW dredd
+DO IT NOW space
+
+YOU HAVE BEEN TERMINATED
+
+#################################################################ESAME#################################################################
+
+La parte relativa al laboratorio sarà costituita da due domande a risposta aperta.
+
+ESEMPIO:
+1)Si spieghi quali regole sono state aggiunte alla grammatica per il ciclo while.
+
+	Risposta: 
+	I) Categorie sintattiche alterate.
+	II) Stesura delle regole aggiunte (non è necessario scriverle con la sintassi di ANTLR precisa al 100%).
+	III) Indicare/commentare i terminali/non-terminali, ed eventuali regex utilizzate nella scrittura di tali regole.
+
+	NB La riscrittura della sola grammatica senza commenti non è una risposta sufficiente.
+
+2)Si spieghi come si potrebbe alterare la grammatica per implementare il costrutto SLY. SLY ~ System.exit(0) {Java}.
+ (Si commenti quali categorie sintattiche andrebbero modificate/estese/introdotte, 
+  e si spieghi a parole e/o in pseudocodice (COMMENTATO) come si implementerebbe la 
+  semantica dinamica dello stesso costrutto).
+
+	Risposta: 
+	I) Per la sintassi come prima
+	II) Per la semantica è sufficiente dare una spiegazione concisa delle modifiche necessarie per implementare tale costrutto. 
+	    Non è richiesta la stesura di codice Java.
+
+#################################################################HELP##################################################################
+
+https://github.com/lhartikk/ArnoldC
+
+#######################################################################################################################################
